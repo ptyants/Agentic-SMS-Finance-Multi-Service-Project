@@ -1,0 +1,116 @@
+{
+  "0909000111": {
+    "mock": [
+      {
+        "accountId": "acc-0111-01",
+        "label": "Thanh toán VND",
+        "balance": 12500000,
+        "last_update": "2025-09-18",
+        "transactions": [
+          { "date": "2025-09-17", "amount": -150000, "merchant": "Highlands Coffee", "type": "Ăn uống" },
+          { "date": "2025-09-16", "amount": -88000, "merchant": "Grab", "type": "Đi lại" },
+          { "date": "2025-09-15", "amount": 20000000, "merchant": "Lương tháng 9", "type": "Thu nhập" },
+          { "date": "2025-09-12", "amount": -560000, "merchant": "Điện lực HCM", "type": "Hóa đơn" }
+        ]
+      },
+      {
+        "accountId": "acc-0111-02",
+        "label": "Tiết kiệm 12 tháng",
+        "balance": 300000000,
+        "last_update": "2025-09-01",
+        "transactions": []
+      }
+    ],
+    "saigonbank": [
+      {
+        "accountId": "sgb-0111-01",
+        "label": "Thanh toán VNĐ",
+        "balance": 5600000,
+        "last_update": "2025-09-19",
+        "transactions": [
+          { "date": "2025-09-19", "amount": -120000, "merchant": "Circle K", "type": "Mua sắm" },
+          { "date": "2025-09-10", "amount": -320000, "merchant": "Phúc Long", "type": "Ăn uống" }
+        ]
+      }
+    ],
+    "hdbank": [
+      {
+        "accountId": "hdb-0111-01",
+        "label": "Thẻ tín dụng",
+        "balance": -2300000,
+        "last_update": "2025-09-18",
+        "transactions": [
+          { "date": "2025-09-18", "amount": -450000, "merchant": "CGV", "type": "Giải trí" },
+          { "date": "2025-09-05", "amount": -1250000, "merchant": "Tiki", "type": "Mua sắm online" }
+        ]
+      }
+    ]
+  },
+
+  "demo:thao": {
+    "mock": [
+      {
+        "accountId": "acc-thao-01",
+        "label": "Thanh toán VND",
+        "balance": 8900000,
+        "last_update": "2025-09-18",
+        "transactions": [
+          { "date": "2025-09-17", "amount": -320000, "merchant": "Co.opmart", "type": "Mua sắm" },
+          { "date": "2025-09-12", "amount": -150000, "merchant": "Vinmart+", "type": "Mua sắm" }
+        ]
+      }
+    ],
+    "vietjetfin": [
+      {
+        "accountId": "vjf-thao-01",
+        "label": "Ví tiêu dùng",
+        "balance": 1250000,
+        "last_update": "2025-09-19",
+        "transactions": [
+          { "date": "2025-09-19", "amount": -99000, "merchant": "Shopee", "type": "Mua sắm" },
+          { "date": "2025-09-14", "amount": -159000, "merchant": "Lazada", "type": "Mua sắm" }
+        ]
+      }
+    ]
+  },
+
+  "0909888777": {
+    "mock": [
+      {
+        "accountId": "acc-8777-01",
+        "label": "Thanh toán VNĐ",
+        "balance": 4550000,
+        "last_update": "2025-09-19",
+        "transactions": [
+          { "date": "2025-09-18", "amount": -65000, "merchant": "GrabFood", "type": "Ăn uống" },
+          { "date": "2025-09-16", "amount": -230000, "merchant": "Xăng dầu Petrolimex", "type": "Đi lại" },
+          { "date": "2025-09-15", "amount": 5000000, "merchant": "Chuyển khoản từ 0909111222", "type": "Thu nhập" }
+        ]
+      }
+    ],
+    "hdbank": [
+      {
+        "accountId": "hdb-8777-01",
+        "label": "Tiết kiệm 6 tháng",
+        "balance": 20000000,
+        "last_update": "2025-09-01",
+        "transactions": []
+      }
+    ]
+  },
+
+  "0909222333": {
+    "saigonbank": [
+      {
+        "accountId": "sgb-2333-01",
+        "label": "Thanh toán VND",
+        "balance": 720000,
+        "last_update": "2025-09-19",
+        "transactions": [
+          { "date": "2025-09-18", "amount": -85000, "merchant": "The Coffee House", "type": "Ăn uống" },
+          { "date": "2025-09-10", "amount": -250000, "merchant": "ShopeePay", "type": "Mua sắm" }
+        ]
+      }
+    ]
+  }
+}
