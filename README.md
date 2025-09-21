@@ -25,6 +25,10 @@ Người dùng chỉ cần nhắn tin SMS (hoặc chat app) để:
 
 ---
 
+![Logo dự án](./idea_wrokflow.jpg)
+
+---
+
 ## 📂 Cấu trúc dự án
 
 ```
