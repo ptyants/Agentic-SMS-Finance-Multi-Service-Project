@@ -21,6 +21,9 @@ Người dùng chỉ cần nhắn tin SMS (hoặc chat app) để:
 - **RAG Engine**: Milvus + SentenceTransformer cho tìm kiếm dịch vụ.
 
 ---
+![Logo dự án](idea wrokflow.jpg)
+
+---
 
 ## 📂 Cấu trúc dự án
 
