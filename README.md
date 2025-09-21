@@ -20,14 +20,13 @@ Người dùng chỉ cần nhắn tin SMS (hoặc chat app) để:
 - **AI Synthesizer**: Ollama (LLaMA) tạo câu trả lời tự nhiên, ngắn gọn, tiếng Việt.
 - **RAG Engine**: Milvus + SentenceTransformer cho tìm kiếm dịch vụ.
 
----
-![Logo dự án](idea wrokflow.jpg)
 
 ---
 
 ![Logo dự án](./idea_wrokflow.jpg)
 
 ---
+
 
 ## 📂 Cấu trúc dự án
 
